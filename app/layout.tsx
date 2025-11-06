@@ -9,9 +9,9 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] })
 const _rubik = Rubik({ subsets: ["arabic"] })
 
 export const metadata: Metadata = {
-  title: "v0 App",
-  description: "Created with v0",
-  generator: "v0.app",
+  title: "invo App",
+  description: "Created with nawar",
+  generator: "nawar",
 }
 
 export default function RootLayout({
