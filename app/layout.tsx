@@ -9,7 +9,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] })
 const _rubik = Rubik({ subsets: ["arabic"] })
 
 export const metadata: Metadata = {
-  title: "invo App",
+  title: "nawar App",
   description: "Created with nawar",
   generator: "nawar",
 }
